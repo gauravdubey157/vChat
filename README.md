@@ -3,7 +3,7 @@ Chatting made easy!
 # What is it?
 A webapp where multiple people can join in and have a fun chat.
 # How to use 
-* clone the repo
+* clone the repository
 * open terminal at this directory
 * run: npm install
 * run: node Server/app.js
